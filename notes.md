@@ -1,6 +1,6 @@
-=Notes
+# ![Markdown Here logo](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png) Markdown Here
 
-==PIP Update
+== PIP Update
 
 Apparently, pip has no build in mechanism for that. This is why I have decided to provide this simple one-liner,
 
