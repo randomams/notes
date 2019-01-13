@@ -1,6 +1,6 @@
-= Notes
+=Notes
 
-== PIP Update
+==PIP Update
 
 Apparently, pip has no build in mechanism for that. This is why I have decided to provide this simple one-liner,
 
